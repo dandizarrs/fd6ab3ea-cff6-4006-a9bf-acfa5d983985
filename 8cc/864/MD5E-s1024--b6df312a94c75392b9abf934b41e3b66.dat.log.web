@@ -1,0 +1,2 @@
+1708134695.575855s 1 https://dandiarchive.s3.amazonaws.com/zarr/fd6ab3ea-cff6-4006-a9bf-acfa5d983985/0/0/d0/d24/d24/f11.dat?versionId=k6NRwYxZ6lEzcgoCrQeZ1WwOxe4rVXDK
+1708134695.578838s 1 https://api.dandiarchive.org/api/zarr/fd6ab3ea-cff6-4006-a9bf-acfa5d983985/files?prefix=0%2F0%2Fd0%2Fd24%2Fd24%2Ff11.dat&download=true
